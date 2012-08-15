@@ -1,5 +1,5 @@
 GitHub README Hierarchy
-=======================
+-----------------------
 
 1. asciidoc
 2. creole
