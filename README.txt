@@ -1,1 +1,1 @@
-txt - higher than lowest priority
+Higher priority than README file without extension
