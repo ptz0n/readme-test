@@ -1,5 +1,8 @@
 GitHub README Hierarchy
------------------------
+=======================
+Erik Eng <mail@ptz0n.se>
+v1.0, August 2012:
+First release.
 
 1. asciidoc
 2. creole
