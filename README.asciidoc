@@ -1,8 +1,7 @@
 GitHub README Hierarchy
-=======================
-Erik Eng <mail@ptz0n.se>
-v1.0, August 2012:
-First release.
+-----------------------
+
+As GitHub won't render a document heading (h1) placed at top of a asciidoc readme file, the subheading (h2) above will do. Btw, the current GitHub readme hierarchy is:
 
 1. asciidoc
 2. creole
